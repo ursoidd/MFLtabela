@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+}
+
+table {
+    width: 95%;
+    margin: auto;
+}
+
+td {
+    width: 8vh;
+    height: 8vh;
+    text-align: center
+    
+}
+
+div {
+    text-align: left;
+}
+
+.borda {
+    border: solid black;
+}
+
+.nmetais {
+    background-color: rgb(179, 215, 106);
+}
+
+.alcmetais {
+    background-color: rgb(245, 201, 94);
+}
+
+.alctermetais {
+    background-color: rgb(239, 229, 91);
+}
+
+.semimetais {
+    background-color: rgb(102, 196, 188);
+}
+
+.halogenios {
+    background-color: rgb(167, 223, 243);
+}
+
+.transmetais {
+    background-color: rgb(242, 176, 176)
+}
+
+.oumetal {
+    background-color: rgb(162, 198, 210);
+}
+
+.gasnobre {
+    background-color: rgb(103, 175, 222);
+}
+
+.lantanideos {
+    background-color: rgb(151, 215, 225);
+}
+
+.actinidios {
+    background-color: rgb(226, 189, 216);
+}
